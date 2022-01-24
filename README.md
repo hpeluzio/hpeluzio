@@ -5,7 +5,7 @@
 ## I'm a Husband, Father, Developer!
 
 - 🌱 I'm currently making videos and coding 🤣
-- 🥅 2022 Become fluent in the English language
+- 🥅 2022 Goal: Become fluent in the English language
 - ⚡ Fun fact: I love to play chess and CSGO with friends
 
 ### Connect with me:
@@ -39,6 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Solução Javascript CyclicRotation 100% Codility](https://www.youtube.com/watch?v=UqCP_WPrkxU)
 - [Solução Javascript BinaryGap 100% e 80% Codility](https://www.youtube.com/watch?v=ycP73DLFdPc)
 <!-- YOUTUBE:END -->
