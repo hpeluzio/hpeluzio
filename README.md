@@ -2,7 +2,7 @@
 
 [![Youtube](https://img.shields.io/website?label=youtube.com&style=for-the-badge&url=https%3A%2F%2Fyoutube.com)](https://www.youtube.com/hpeluzio)
 
-## I'm a Husband, Father, Developer!
+## I'm a Husband, Father and Developer!
 
 - 🌱 I'm currently making videos and coding 🤣
 - 🥅 2022 Goal: Become fluent in the English language
