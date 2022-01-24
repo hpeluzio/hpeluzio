@@ -39,7 +39,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Solução Javascript CyclicRotation 100% Codility](https://www.youtube.com/watch?v=UqCP_WPrkxU)
 - [Solução Javascript BinaryGap 100% e 80% Codility](https://www.youtube.com/watch?v=ycP73DLFdPc)
 <!-- YOUTUBE:END -->
