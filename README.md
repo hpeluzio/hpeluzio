@@ -39,6 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solução Javascript PermMissingElem 100% Codility](https://www.youtube.com/watch?v=K3XbQkPozU0)
 - [Solução Javascript FrogJmp 100% Codility](https://www.youtube.com/watch?v=PBxYlrH1rpk)
 - [Solução Javascript OddOccurrencesInArray 100% Codility](https://www.youtube.com/watch?v=jy9JfJ6wqjY)
 - [Solução Javascript CyclicRotation 100% Codility](https://www.youtube.com/watch?v=UqCP_WPrkxU)
