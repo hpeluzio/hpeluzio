@@ -1,5 +1,6 @@
 ### Hi there, I'm Henrique 👋
 
+[![LinkedIn](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/hpeluzio)
 [![Youtube](https://img.shields.io/website?label=youtube.com&style=for-the-badge&url=https%3A%2F%2Fyoutube.com)](https://www.youtube.com/hpeluzio)
 
 ## I'm a Husband, Father and Developer!
