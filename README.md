@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solução Javascript MaxCounters 77% Codility](https://www.youtube.com/watch?v=gOWUps7rYo0)
 - [Solução Javascript TapeEquilibrium 100% Codility](https://www.youtube.com/watch?v=ajmDyF0aIjg)
 - [Solução Javascript PermMissingElem 100% Codility](https://www.youtube.com/watch?v=K3XbQkPozU0)
 - [Solução Javascript FrogJmp 100% Codility](https://www.youtube.com/watch?v=PBxYlrH1rpk)
 - [Solução Javascript OddOccurrencesInArray 100% Codility](https://www.youtube.com/watch?v=jy9JfJ6wqjY)
-- [Solução Javascript CyclicRotation 100% Codility](https://www.youtube.com/watch?v=UqCP_WPrkxU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/hpeluzio)
