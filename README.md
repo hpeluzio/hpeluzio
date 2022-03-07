@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solução Javascript MinAvgTwoSlice 100% Codility](https://www.youtube.com/watch?v=xs1bCr-s5iM)
 - [Solução Javascript GenomicRangeQuery 100% Codility](https://www.youtube.com/watch?v=CpOxVM7bRf8)
 - [Solução Javascript CountDiv 100% Codility](https://www.youtube.com/watch?v=pBeWejfh99A)
 - [Solução Javascript PassingCars 100% Codility](https://www.youtube.com/watch?v=kOM0mRz7Gvs)
 - [Solução Javascript FrogRiverOne 100% Codility](https://www.youtube.com/watch?v=yzpDfGWY5pk)
-- [Solução Javascript MissingInteger 100% Codility](https://www.youtube.com/watch?v=r8nNEr0NiE4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/hpeluzio)
