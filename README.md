@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solução Javascript Distinct 100% Codility](https://www.youtube.com/watch?v=7FU5D7kiZo8)
 - [Linux: Redução de ruídos, Noise reduction for an specific default microphone](https://www.youtube.com/watch?v=D4CY6c-y8vM)
 - [Solução Javascript MinAvgTwoSlice 100% Codility](https://www.youtube.com/watch?v=xs1bCr-s5iM)
 - [Solução Javascript GenomicRangeQuery 100% Codility](https://www.youtube.com/watch?v=CpOxVM7bRf8)
 - [Solução Javascript CountDiv 100% Codility](https://www.youtube.com/watch?v=pBeWejfh99A)
-- [Solução Javascript PassingCars 100% Codility](https://www.youtube.com/watch?v=kOM0mRz7Gvs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/hpeluzio)
