@@ -7,7 +7,6 @@
 
 - 🌱 I'm currently making videos and coding 🤣
 - 🥅 2022 Goal: Become fluent in the English language
-- ⚡ Fun fact: I love to play chess and CSGO with friends
 
 ### Connect with me:
 
