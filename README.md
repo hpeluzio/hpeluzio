@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father and Developer!
 
-- 🌱 I'm currently making videos and coding 🤣
+- 🌱 I'm currently learning and living 🤣
 - 🥅 2023 Goal: Become fluent in the English language
 
 ### Connect with me:
