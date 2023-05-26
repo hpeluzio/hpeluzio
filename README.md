@@ -1,6 +1,6 @@
 ### Hi there, I'm Henrique 👋
 
-[![LinkedIn](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/hpeluzio)
+[![LinkedIn](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/henriquepeluzio)
 [![Youtube](https://img.shields.io/website?label=youtube.com&style=for-the-badge&url=https%3A%2F%2Fyoutube.com)](https://www.youtube.com/hpeluzio)
 
 ## I'm a Husband, Father and Developer!
@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Henrique | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/hpeluzio)
-[<img align="left" alt="Henrique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hpeluzio)
+[<img align="left" alt="Henrique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/henriquepeluzio)
 [<img align="left" alt="Henrique | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hpeluzio)
 
 <br />
